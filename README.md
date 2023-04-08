@@ -3,4 +3,4 @@
 
 
 
-im [![blazebrown87221](https://github.com/blazebrown87221.png?size=60)](https://github.com/blazebrown87221 "Jonah Lawrence on GitHub")
+[![blazebrown87221](https://github.com/blazebrown87221.png?size=60)](https://github.com/blazebrown87221 "Jonah Lawrence on GitHub")
